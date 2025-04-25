@@ -4,7 +4,8 @@
 Esta aplicación muestra información sobre los personajes de la serie Rick and Morty, utilizando la [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## 🖼️ Capturas de pantalla
-*(Añade aquí imágenes o gifs de tu aplicación en funcionamiento, si tienes)*
+![image](https://github.com/user-attachments/assets/0c7b069b-5e15-454d-9c5a-d2e0816a669c)
+
 
 ## 📋 Características
 - **Búsqueda en tiempo real:** Encuentra personajes escribiendo su nombre.
